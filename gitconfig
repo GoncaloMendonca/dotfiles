@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = 
+	name = Goncalo Mendonca dflomendonca@gmail.com
